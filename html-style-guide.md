@@ -329,7 +329,7 @@ alert(document.getElementById('foo').tagName);
 <script src=esl.js></script>
 ```
 
-#### [建议] 布尔类型的属性，建议不添加属性值。
+#### [建议] 属性名与值相同的属性，建议不添加属性值。
 
 示例：
 
